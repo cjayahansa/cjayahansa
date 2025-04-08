@@ -17,15 +17,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **innovative web and electronics projects**
+
 - 🌱 I'm constantly learning and exploring new technologies
-- 💬 Ask me about **React, Web Development, and Electronics**
 - 🎯 Goal: Contributing to projects that make a difference
 - 🖥️ Completed **Computer Hardware Course** with knowledge in system building and troubleshooting
 - 🌐 Completed **Advanced Networking Course** to enhance my technical skill set
 - ⚡ Fun fact: I love combining hardware and software to create unique solutions
-- 🌍 Based in: Sri Lanka
-- 📫 How to reach me: [chaminduliyangama1761@gmail.com](mailto:chaminduliyangama1761@gmail.com)
+
 
 <details>
 <summary>More about me</summary>
