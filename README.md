@@ -23,7 +23,7 @@
 - 🎯 Goal: Contributing to projects that make a difference
 - ⚡ Fun fact: I love combining hardware and software to create unique solutions
 - 🌍 Based in: Sri Lanka
-- 📫 How to reach me: [your.email@example.com](mailto:chaminduliyangama1761@gmail.com)
+- 📫 How to reach me: [chaminduliyangama1761@gmail.com]
 
 <details>
 <summary>More about me</summary>
