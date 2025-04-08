@@ -12,7 +12,7 @@
 
 <!-- Typing SVG - You can customize the text at https://readme-typing-svg.herokuapp.com/ -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Electronics+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Electronics+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Networking+Designer:Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ## 🚀 About Me
@@ -21,18 +21,22 @@
 - 🌱 I'm constantly learning and exploring new technologies
 - 💬 Ask me about **React, Web Development, and Electronics**
 - 🎯 Goal: Contributing to projects that make a difference
+- 🖥️ Completed **Computer Hardware Course** with knowledge in system building and troubleshooting
+- 🌐 Completed **Advanced Networking Course** to enhance my technical skill set
 - ⚡ Fun fact: I love combining hardware and software to create unique solutions
 - 🌍 Based in: Sri Lanka
-- 📫 How to reach me: [chaminduliyangama1761@gmail.com]
+- 📫 How to reach me: [chaminduliyangama1761@gmail.com](mailto:chaminduliyangama1761@gmail.com)
 
 <details>
 <summary>More about me</summary>
 <br>
 As an Electronics & Computer Science Engineer with a passion for web design, I bring a unique perspective to every project. My background in hardware combined with software expertise allows me to create comprehensive solutions that bridge the gap between physical and digital worlds.
 
+My computer hardware course has equipped me with knowledge in system building, component selection, and troubleshooting various hardware issues. Additionally, completing an advanced networking course has given me insights into network design, configuration, and security principles.
+
 I believe in continuous learning and staying updated with the latest technologies. My approach to problem-solving involves thinking outside the box and finding innovative solutions that are both efficient and elegant.
 
-When I'm not coding or designing circuits, you can find me [your hobbies or interests].
+When I'm not coding or designing circuits, you can find me exploring new technologies and working on personal projects that combine my interests in hardware and software.
 </details>
 
 ## 🏆 GitHub Trophies
@@ -85,6 +89,14 @@ When I'm not coding or designing circuits, you can find me [your hobbies or inte
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+</p>
+
+<p align="center">
+  <b>Hardware & Networking</b><br>
+  <img src="https://img.shields.io/badge/-Computer_Hardware-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Computer Hardware"/>
+  <img src="https://img.shields.io/badge/-Networking-00A0D1?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/-System_Building-4D4D4D?style=for-the-badge&logo=pcgamingwiki&logoColor=white" alt="System Building"/>
+  <img src="https://img.shields.io/badge/-Troubleshooting-FFA500?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Troubleshooting"/>
 </p>
 
 <p align="center">
