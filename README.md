@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="banner" width="80%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="banner" width="76%"/>
   <h1>Hi there, I'm CJAYAHANSA 👋</h1>
   <p><em>Electronics & Computer Science Engineer ⚡ | Web Designer 🌐</em></p>
   <p>Innovating at the intersection of circuits, code, and creativity.</p>
