@@ -111,8 +111,8 @@ When I'm not coding or designing circuits, you can find me exploring new technol
   
   ### Programming Languages
   ```text
-  JavaScript          ███████████████████░░   90%
+  JavaScript          ████████████████░░░░░  80%
   Python              ████████████████░░░░░   80%
   C/C++               ███████████████░░░░░░   75%
   Java                ████████████░░░░░░░░░   60%
-  Spring Boot         ████████░░░░░░░░░░░░░   40%
+  Spring Boot         ████████████░░░░░░░░░   60%
